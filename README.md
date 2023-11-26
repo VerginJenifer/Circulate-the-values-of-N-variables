@@ -31,7 +31,8 @@ n=int(input())
 print("After circulating the values are:",circulate())
 ```
 ## Output:
-![image](https://github.com/VerginJenifer/Circulate-the-values-of-N-variables/assets/136251012/63f500c8-e5b9-4445-ac8a-be210124d20b)
+![image](https://github.com/VerginJenifer/Circulate-the-values-of-N-variables/assets/136251012/d4d0fc2c-f3fc-4c07-87d4-c9fe0620999c)
+
 
 ## Result:
 Thus, circulate the n variables using function concept is successfully executed
